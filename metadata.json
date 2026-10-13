@@ -1,0 +1,6 @@
+{
+  "name": "My Health Companion",
+  "description": "A modern, colorful, and intuitive personal health tracking application for diet, activity, vitals, and medical records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
